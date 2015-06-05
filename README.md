@@ -1,6 +1,7 @@
 # Jetsms
 
-TODO: Write a gem description
+SMS sender for Turkey JetSMS
+This gem is for sending SMS using JetSMS services
 
 ## Installation
 
@@ -12,27 +13,59 @@ gem 'jetsms'
 
 And then execute:
 
-    $ bundle
+$ bundle
 
 Or install it yourself as:
 
-    $ gem install jetsms
+$ gem install jetsms
+
+config/initialize/jetsms.rb
+```ruby
+
+require 'jetsms.rb'
+
+JetSMS.configure do |config|
+	config.usercode = 'UserName'
+	config.password = 'Password'
+end
+
+```
+
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+	NetGSM::SMS.send_sms('123', 'test', from: 'COMPANY', turkish: true)
+```
 
 ## Version
 
-0.0.6
+0.0.7
+Usage Document Added
+
 
 0.0.6
+Xml Body Fixed
+Sms Send Success
 
 
-## Contributing
+0.0.5
+Bug Fix
+UTF-8 Option Added
 
-1. Fork it ( https://github.com/[my-github-username]/jetsms/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+
+0.0.4
+Bug Fix
+Date Option Added
+
+
+0.0.3
+Bug Fix
+Single SMS Added
+
+0.0.2
+Bug Fix
+
+
+0.0.1
+First Commit
