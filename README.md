@@ -41,39 +41,31 @@ end
 
 ## Version
 
-0.0.7
-
-Usage Document Added
-
-
-0.0.6
-
-Xml Body Fixed
-Sms Send Success
+__0.0.7__
+* Usage Document Added
 
 
-0.0.5
-
-Bug Fix
-UTF-8 Option Added
-
-
-0.0.4
-
-Bug Fix
-Date Option Added
+__0.0.6__
+* Xml Body Fixed
+* Sms Send Success
 
 
-0.0.3
-
-Bug Fix
-Single SMS Added
-
-0.0.2
-
-Bug Fix
+__0.0.5__
+* Bug Fix
+* UTF-8 Option Added
 
 
-0.0.1
+__0.0.4__
+* Bug Fix
+* Date Option Added
 
-First Commit
+
+__0.0.3__
+* Bug Fix
+* Single SMS Added
+
+__0.0.2__
+* Bug Fix
+
+__0.0.1__
+* First Commit
