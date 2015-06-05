@@ -36,7 +36,7 @@ end
 ## Usage
 
 ```ruby
-	NetGSM::SMS.send_sms('123', 'test', from: 'COMPANY', turkish: true)
+	JetSMS::SMS.send_sms('123', 'test', from: 'COMPANY', turkish: true)
 ```
 
 ## Version
