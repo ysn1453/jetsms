@@ -1,4 +1,4 @@
-# Jetsms
+# JetSMS
 
 SMS sender for Turkey JetSMS
 
