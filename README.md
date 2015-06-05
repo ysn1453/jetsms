@@ -42,31 +42,38 @@ end
 ## Version
 
 0.0.7
+
 Usage Document Added
 
 
 0.0.6
+
 Xml Body Fixed
 Sms Send Success
 
 
 0.0.5
+
 Bug Fix
 UTF-8 Option Added
 
 
 0.0.4
+
 Bug Fix
 Date Option Added
 
 
 0.0.3
+
 Bug Fix
 Single SMS Added
 
 0.0.2
+
 Bug Fix
 
 
 0.0.1
+
 First Commit
