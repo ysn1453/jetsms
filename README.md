@@ -1,6 +1,7 @@
 # Jetsms
 
 SMS sender for Turkey JetSMS
+
 This gem is for sending SMS using JetSMS services
 
 ## Installation
