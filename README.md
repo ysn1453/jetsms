@@ -8,6 +8,8 @@ This gem is for sending SMS using JetSMS services
 
 ## Installation
 
+http://www.jetsms.net
+
 Add this line to your application's Gemfile:
 
 ```ruby
