@@ -1,5 +1,7 @@
 # JetSMS
 
+[![Gem Version](https://badge.fury.io/rb/jetsms.svg)](http://badge.fury.io/rb/jetsms)
+
 SMS sender for Turkey JetSMS
 
 This gem is for sending SMS using JetSMS services
@@ -69,3 +71,6 @@ __0.0.2__
 
 __0.0.1__
 * First Commit
+
+## Thanks
+Big Boss Hüseyin Gömleksizoğlu
