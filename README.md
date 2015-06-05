@@ -20,7 +20,7 @@ Or install it yourself as:
 
 $ gem install jetsms
 
-config/initialize/jetsms.rb
+config/initializers/jetsms.rb
 ```ruby
 
 require 'jetsms.rb'
