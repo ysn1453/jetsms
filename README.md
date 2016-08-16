@@ -45,6 +45,9 @@ end
 
 ## Version
 
+__0.0.8__
+* SMS Send result
+
 __0.0.7__
 * Usage Document Added
 

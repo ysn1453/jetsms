@@ -9,8 +9,7 @@ module JetSMS
 
 			response = send_request(body)
 
-			result = parse_response(response)
-			"result = #{result}"
+			return parse_response(response)
 		end
 
 		def sms_status
