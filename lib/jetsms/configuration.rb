@@ -6,7 +6,7 @@ module JetSMS
 		attr_accessor :password
 
 		def initialize
-			@host = 'www.biotekno.biz'
+			@host = 'service.jetsms.com.tr'
 			@port = 8080
 		end
 	end
